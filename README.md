@@ -8,12 +8,33 @@ Le livre de règles de base est le D6 Intégral de l'Open D6 publié par le [Stu
 
 Vous pouvez aussi consulter le site original américain [OpenD6](http://opend6.wikidot.com/).
 
-## Matériel
+## Caractéristiques et compétences
 
-Vous trouverez ici :
+### Attributs
 
-  * Une feuille de personnage (format ODS et PDF) pour D6 Dimensions,
-  * Une feuille de tableur au format ODS avec la liste de compétences et caractéristiques de D6 Dimensions.
+1. Agilité
+2. Vigueur
+3. Savoir
+4. Perception
+5. Charisme
+6. Technique
+
+7. Magie dimensionnelle
+
+ La liste des attributs et compétences de D6 Dimensions est fournie sous format ODS dans le repo : "D6 Dimensions Attributs et competences.ods".
+
+### Création des personnages
+
+Bien que les personnages soient des enfants, le nombre de dés à répartir est le même que pour les adultes :
+
+  * Attributs : 18D
+  * Compétences : 7D
+
+Une feuille de personnage conforme aux compétences est disponible dans le repo eux formats PDF et ODS : "D6 Dimensions Feuille de personnage.pdf" et "D6 Dimensions Feuille de personnage.ods".
+
+## Background
+
+A venir.
 
 ## Scenarios
 
